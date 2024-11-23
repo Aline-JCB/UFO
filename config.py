@@ -6,9 +6,9 @@ from os import environ
 # For Any Kind Of Error Ask Us In Support Group @Silicon_Botz 
 
 class Config:
-    API_ID = environ.get("API_ID", "")
-    API_HASH = environ.get("API_HASH", "")
-    BOT_TOKEN = environ.get("BOT_TOKEN", "") 
+    API_ID = environ.get("API_ID", "23336308")
+    API_HASH = environ.get("API_HASH", "884c5a2f4583f875d9d021b222e1d752")
+    BOT_TOKEN = environ.get("BOT_TOKEN", "7449323563:AAFXpGPmqCWnlLBm120L3XN0q0likLyjqqg") 
     BOT_SESSION = environ.get("BOT_SESSION", "Auto_Forward") 
     DATABASE_URI = environ.get("DATABASE", "")
     DATABASE_NAME = environ.get("DATABASE_NAME", "")
